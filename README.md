@@ -1,6 +1,6 @@
 ####Signing Up For Shifts (Desktop)
 #####Via the Calendar
-1. Log into Deputy
+1. Log into [Deputy](https://sfmentors.na.deputy.com/)
 2. From the landing page, navigate to week you wish to sign up for using the calendar navigation located under “Welcome back, Your Name”
 3. Click on any “Open” shift
 4. Click the “Claim Shift” button on the resulting modal
@@ -9,7 +9,7 @@
 [![Via Calendar](http://img.youtube.com/vi/YIfVBLyQ9mg/0.jpg)](http://www.youtube.com/watch?v=YIfVBLyQ9mg)
 
 #####Via Available Shifts
-1. Log into Deputy
+1. Log into [Deputy](https://sfmentors.na.deputy.com/)
 2. Under Welcome back, Your Name, click the “# available shifts” button
 3. Click the “Claim Shift” button next to the desired shifts
 
@@ -62,4 +62,4 @@
 2. Enter your PIN
 3. Touch "Start Shift”
 4. Center your face on screen via the camera until your photo is taken
-5. Follow the same steps to sign out, but select “End Shift in Step 3
+5. Follow the same steps to sign out, but select “End Shift in Step 3"
