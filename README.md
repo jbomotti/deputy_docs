@@ -16,7 +16,7 @@
 **_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
 [![Via Calendar](http://img.youtube.com/vi/YIfVBLyQ9mg/0.jpg)](http://www.youtube.com/watch?v=YIfVBLyQ9mg)
 
-####Signing Up for a Shift (iOS)
+####Signing Up for a Shift (iOS/Android)
 1. Navigate to “Me” from the tab menu on the bottom of the screen
 2. Select “Available Shifts”
 3. Tap a shift you wish to sign up for
@@ -34,7 +34,7 @@
 
 [![Cancel a Shift](http://img.youtube.com/vi/W1oAW1z5qYE/0.jpg)](http://www.youtube.com/watch?v=W1oAW1z5qYE)
 
-####Cancelling a Shift (iOS)
+####Cancelling a Shift (iOS/Android)
 1. Navigate to “Me” from the tab menu on the bottom of the screen
 2. Select “Upcoming Shifts”
 3. Tap the shift you can no longer work
@@ -50,7 +50,7 @@
 3. At the bottom of each day you can see who else is scheduled for that day (click for further details)
 [![View Schedule](http://img.youtube.com/vi/P-H_K1NEd0w/0.jpg)](http://www.youtube.com/watch?v=P-H_K1NEd0w)
 
-####View Your Schedule/Who is Working (iOS)
+####View Your Schedule/Who is Working (iOS/Android)
 1. Select “Schedule” from the tab menu at the bottom of the screen
 2. Scroll through the weeks via the dates at the top
 3. Scroll up/down to view the shifts for the day and who is assigned to work them
