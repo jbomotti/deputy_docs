@@ -5,6 +5,7 @@
 3. Click the “Claim Shift” button next to the desired shifts
 
 **_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
+[![Via Available Shifts](http://img.youtube.com/vi/Lts_yrt9HFQ/0.jpg)](http://www.youtube.com/watch?v=Lts_yrt9HFQ)
 
 #####Via the Calendar
 1. Log into Deputy
@@ -13,6 +14,7 @@
 4. Click the “Claim Shift” button on the resulting modal
 
 **_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
+[![Via Calendar](http://img.youtube.com/vi/YIfVBLyQ9mg/0.jpg)](http://www.youtube.com/watch?v=YIfVBLyQ9mg)
 
 ####Signing Up for a Shift (iOS)
 1. Navigate to “Me” from the tab menu on the bottom of the screen
@@ -37,12 +39,14 @@
 4. Tap the “Can’t Work” Button
 5. Choose “Offer Shift”
 6. Select mentors to offer this shift to and tap “Send”
+[![Cancel a Shift](http://img.youtube.com/vi/W1oAW1z5qYE/0.jpg)](http://www.youtube.com/watch?v=W1oAW1z5qYE)
 
 
 ####View Your Schedule/Who is Working (Desktop)
 1. Select “Me” from the nav bar, if not already selected
 2. Use the Calendar controls below “Welcome back, Your Name” to navigate through the upcoming weeks and view your schedule
 3. At the bottom of each day you can see who else is scheduled for that day (click for further details)
+[![View Schedule](http://img.youtube.com/vi/P-H_K1NEd0w/0.jpg)](http://www.youtube.com/watch?v=P-H_K1NEd0w)
 
 ####View Your Schedule/Who is Working (iOS)
 1. Select “Schedule” from the tab menu at the bottom of the screen
