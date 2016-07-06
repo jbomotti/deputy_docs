@@ -39,6 +39,7 @@
 4. Tap the “Can’t Work” Button
 5. Choose “Offer Shift”
 6. Select mentors to offer this shift to and tap “Send”
+
 [![Cancel a Shift](http://img.youtube.com/vi/W1oAW1z5qYE/0.jpg)](http://www.youtube.com/watch?v=W1oAW1z5qYE)
 
 
