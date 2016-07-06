@@ -5,9 +5,7 @@
 3. Click the “Claim Shift” button next to the desired shifts
 
 **_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Lts_yrt9HFQ
-" target="_blank"><img src="http://img.youtube.com/vi/Lts_yrt9HFQ/0.jpg" 
-alt="Via Available Shifts" width="240" height="180" border="10" /></a>
+[![Via Calendar](http://img.youtube.com/vi/Lts_yrt9HFQ/0.jpg)](http://www.youtube.com/watch?v=Lts_yrt9HFQ)
 
 #####Via the Calendar
 1. Log into Deputy
@@ -34,6 +32,8 @@ alt="Via Available Shifts" width="240" height="180" border="10" /></a>
 
 **_Note_**: Until someone has claimed this shift, you are still responsible for the hours you signed up for. If you absolutely cannot make your scheduled shift, email the Mentor Coordinator
 
+[![Cancel a Shift](http://img.youtube.com/vi/W1oAW1z5qYE/0.jpg)](http://www.youtube.com/watch?v=W1oAW1z5qYE)
+
 ####Cancelling a Shift (iOS)
 1. Navigate to “Me” from the tab menu on the bottom of the screen
 2. Select “Upcoming Shifts”
@@ -42,8 +42,7 @@ alt="Via Available Shifts" width="240" height="180" border="10" /></a>
 5. Choose “Offer Shift”
 6. Select mentors to offer this shift to and tap “Send”
 
-[![Cancel a Shift](http://img.youtube.com/vi/W1oAW1z5qYE/0.jpg)](http://www.youtube.com/watch?v=W1oAW1z5qYE)
-
+**_Note_**: Until someone has claimed this shift, you are still responsible for the hours you signed up for. If you absolutely cannot make your scheduled shift, email the Mentor Coordinator
 
 ####View Your Schedule/Who is Working (Desktop)
 1. Select “Me” from the nav bar, if not already selected
