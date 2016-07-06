@@ -5,7 +5,9 @@
 3. Click the “Claim Shift” button next to the desired shifts
 
 **_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
-[![Via Available Shifts](http://img.youtube.com/vi/Lts_yrt9HFQ/0.jpg)](http://www.youtube.com/watch?v=Lts_yrt9HFQ)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Lts_yrt9HFQ
+" target="_blank"><img src="http://img.youtube.com/vi/Lts_yrt9HFQ/0.jpg" 
+alt="Via Available Shifts" width="240" height="180" border="10" /></a>
 
 #####Via the Calendar
 1. Log into Deputy
