@@ -1,15 +1,17 @@
 ####Signing Up For Shifts (Desktop)
-**Via Available Shifts**
+#####Via Available Shifts
 1. Log into Deputy
 2. Under Welcome back, Your Name, click the “# available shifts” button
 3. Click the “Claim Shift” button next to the desired shifts
+
 **_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
 
-**Via the Calendar**
+#####Via the Calendar
 1. Log into Deputy
 2. From the landing page, navigate to week you wish to sign up for using the calendar navigation located under “Welcome back, Your Name”
 3. Click on any “Open” shift
 4. Click the “Claim Shift” button on the resulting modal
+
 **_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
 
 ####Signing Up for a Shift (iOS)
@@ -25,6 +27,7 @@
 2. From the “Can’t Work” drop down in the lower right select “Offer Shift”
 3. Select available mentor(s) to offer the shift to, or choose “Select All” to offer to all available mentors
 4. Click “Invite # to work this shift”
+
 **_Note_**: Until someone has claimed this shift, you are still responsible for the hours you signed up for. If you absolutely cannot make your scheduled shift, email the Mentor Coordinator
 
 ####Cancelling a Shift (iOS)
