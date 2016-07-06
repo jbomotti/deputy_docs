@@ -1,12 +1,4 @@
 ####Signing Up For Shifts (Desktop)
-#####Via Available Shifts
-1. Log into Deputy
-2. Under Welcome back, Your Name, click the “# available shifts” button
-3. Click the “Claim Shift” button next to the desired shifts
-
-**_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
-[![Via Calendar](http://img.youtube.com/vi/Lts_yrt9HFQ/0.jpg)](http://www.youtube.com/watch?v=Lts_yrt9HFQ)
-
 #####Via the Calendar
 1. Log into Deputy
 2. From the landing page, navigate to week you wish to sign up for using the calendar navigation located under “Welcome back, Your Name”
@@ -15,6 +7,15 @@
 
 **_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
 [![Via Calendar](http://img.youtube.com/vi/YIfVBLyQ9mg/0.jpg)](http://www.youtube.com/watch?v=YIfVBLyQ9mg)
+
+#####Via Available Shifts
+1. Log into Deputy
+2. Under Welcome back, Your Name, click the “# available shifts” button
+3. Click the “Claim Shift” button next to the desired shifts
+
+**_Note_**: You will be unable to sign up for any shifts that would put you over your weekly limit
+[![Via Calendar](http://img.youtube.com/vi/Lts_yrt9HFQ/0.jpg)](http://www.youtube.com/watch?v=Lts_yrt9HFQ)
+
 
 ####Signing Up for a Shift (iOS/Android)
 1. Navigate to “Me” from the tab menu on the bottom of the screen
